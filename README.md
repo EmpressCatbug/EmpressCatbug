@@ -26,6 +26,6 @@ Welcome to my magical code journey. ✨
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmpressCatbug&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EmpressCatbug&label=Profile%20Views&color=11&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
