@@ -1,11 +1,6 @@
 # 🧚‍♀️ Welcome to EmpressCatbug's Enchanted Universe 🦋
 
 # 💫 About Me:
-Here's a revised version that highlights a broad range of interests and skills:
-
----
-
-## About Me
 
 Hello! I'm Takeria Thompson, an undergraduate student at Southern New Hampshire University, majoring in Software Engineering. I am passionate about all aspects of software development, from front-end design to back-end implementation, and everything in between.
 
