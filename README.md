@@ -52,10 +52,17 @@ Feel free to explore my repositories and connect with me for any collaboration o
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EmpressCatbug&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EmpressCatbug&icon=9&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Connect with Me
+
+Feel free to check out my professional profiles and other projects:
+
+- [Merit Page](https://meritpages.com/Takeria.Thompson)
+- [LinkedIn](https://www.linkedin.com/in/takeria-t-10a7b924b/)
+- [GitHub Portfolio](https://empresscatbug.github.io/)
+
+I also invite you to explore my other repositories and ongoing projects here on GitHub! Thank you for visiting.
