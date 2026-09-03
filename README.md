@@ -21,7 +21,7 @@ Hi, I'm **Takeria Thompson**, a software engineer who enjoys working at the inte
 
 I earned my **Bachelor of Science in Computer Science with a concentration in Software Engineering** from **Southern New Hampshire University**, graduating **Magna Cum Laude** with a **3.7 GPA**.
 
-I'm naturally curious, and that curiosity tends to send me down rabbit holes. When I encounter something new, I want to understand how it works—not just enough to recognize it, but enough to actually use it. That often means reading documentation, watching tutorials, experimenting, and sometimes creating an entire project simply to put a new concept into practice.
+I'm naturally curious, and that curiosity tends to send me down rabbit holes. When I encounter something new, I want to understand how it works not just enough to recognize it, but enough to actually use it. That often means reading documentation, watching tutorials, experimenting, and sometimes creating an entire project simply to put a new concept into practice.
 
 What draws me to software engineering is that there is always another problem to solve, technology to explore, or skill to develop. I enjoy taking ideas from **concept → implementation → refinement**, whether I'm working on a web application, backend system, AI experiment, interface, game, or something entirely new.
 
